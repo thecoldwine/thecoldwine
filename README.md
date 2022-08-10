@@ -1,6 +1,6 @@
 ### Mikhail Aksenov
 
-Solutiuons Architect @ Halliburton
+Solutions Architect @ Halliburton
 
 * 💕 Elixir, Erlang, SQL
 * 👌 JavaScript, Python, Go
