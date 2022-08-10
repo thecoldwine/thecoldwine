@@ -1,6 +1,6 @@
 ### Mikhail Aksenov
 
-Lead developer @ Halliburton
+Solutiuons Architect @ Halliburton
 
 * 💕 Elixir, Erlang, SQL
 * 👌 JavaScript, Python, Go
