@@ -2,7 +2,7 @@
 
 Solutions Architect @ Halliburton
 
-* 💕 Elixir, Erlang, SQL
-* 👌 JavaScript, Python, Go
-* 🤢 .NET, Java
+* 💕 Elixir, SQL
+* 👌 C# (with .netcore), JavaScript, Go
+* 🤢 Java, Python
 
