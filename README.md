@@ -6,3 +6,4 @@ Architect @ Zaptec
 * 👌 C# (with .netcore), JavaScript, Go, C
 * 🤢 Java, Python
 
+I do databases, load testing and shamanistic rituals around all kinds of data storage and processing systems.
