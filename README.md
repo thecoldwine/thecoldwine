@@ -2,8 +2,9 @@
 
 Architect @ Zaptec
 
-* 💕 Elixir, SQL, Go
-* 👌 JS, C, C# (with .netcore)
+* 💕 SQL, Go
+* 😏 Elixir, JS, C
+* 🤨 C# (with .netcore), Powershell
 * 🤢 Java, Python
 
-I do databases, linux, nginx and data processing systems.
+I do databases, linux, kubernetes, nginx, observability and data processing systems.
