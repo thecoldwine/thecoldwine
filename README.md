@@ -1,10 +1,10 @@
 ### Mikhail Aksenov
 
-Architect @ Zaptec
+Staff Engineer @ Zaptec
 
 * 💕 SQL, Go
-* 😏 Elixir, JS, C
-* 🤨 C# (with .netcore), Powershell
-* 🤢 Java, Python
+* 😏 JS, C
+* 🤨 C# (with .netcore), Powershell, Lua
+* 🤢 Java, Python, Bash
 
 I do databases, linux, kubernetes, nginx, observability and data processing systems.
