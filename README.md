@@ -4,7 +4,7 @@ Staff Engineer @ Zaptec
 
 * 💕 SQL, Go
 * 😏 C, CQL
-* 🤨 C# (with .netcore), Lua, JS
-* 🤢 Java, Python, Bash, Powershell
+* 🤨 Rust, Lua, JS
+* 🤢 C# (with .netcore), Java, Python, Bash, Powershell
 
-I do databases, linux, kubernetes, nginx, observability and data processing systems.
+I do databases, linux, kubernetes, observability and data processing systems.
