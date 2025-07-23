@@ -2,9 +2,9 @@
 
 Staff Engineer @ Zaptec
 
-* 💕 SQL, Go
-* 😏 C, CQL
-* 🤨 Rust, Lua, JS, asm (x86_64)
+* 💕 SQL, CQL, Go
+* 😏 C, eBPF
+* 🤨 JS, Rust, asm (x86_64)
 * 🤢 C# (with .netcore), Java, Python, Bash, Powershell
 
-I do databases, linux, kubernetes, observability and data processing systems. Occasionally mess with AI (in form of MCP and agents).
+I do databases, linux, kubernetes, observability and data processing systems. I wrap things in MCP because I can.
