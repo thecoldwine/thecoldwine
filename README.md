@@ -1,6 +1,6 @@
 ### Mikhail Aksenov
 
-Staff Engineer @ Zaptec
+Principal Engineer @ Zaptec
 
 * 💕 SQL, CQL, Go
 * 😏 C, eBPF
